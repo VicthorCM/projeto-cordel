@@ -92,4 +92,11 @@ footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     padding: 5px;
+    font-size: 1
+
+    
+}
+footer>p{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
